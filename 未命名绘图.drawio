@@ -1,140 +1,143 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="rtMotEhuk78CixwwPYpt">
-    <mxGraphModel dx="1646" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1752" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nT96e9O3tZ2XYBUej3jo-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="440" width="486" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-3" value="&lt;div&gt;愤怒&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="350" width="40" height="20" as="geometry" />
+          <mxGeometry x="-644" y="480" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-4" value="&lt;div&gt;平和&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="390" width="40" height="20" as="geometry" />
+          <mxGeometry x="-644" y="520" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-5" value="&lt;div&gt;负面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="350" width="40" height="20" as="geometry" />
+          <mxGeometry x="-574" y="480" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-6" value="&lt;div&gt;平和&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="390" width="40" height="20" as="geometry" />
+          <mxGeometry x="-574" y="520" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-7" target="nT96e9O3tZ2XYBUej3jo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-7" value="&lt;div&gt;呼吸&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="350" width="40" height="20" as="geometry" />
+          <mxGeometry x="-504" y="480" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-8" target="nT96e9O3tZ2XYBUej3jo-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-8" value="&lt;div&gt;感受&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="390" width="40" height="20" as="geometry" />
+          <mxGeometry x="-504" y="520" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="510" as="sourcePoint" />
-            <mxPoint x="240" y="360" as="targetPoint" />
+            <mxPoint x="-694" y="640" as="sourcePoint" />
+            <mxPoint x="-534" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="410" as="sourcePoint" />
-            <mxPoint x="240" y="400" as="targetPoint" />
+            <mxPoint x="-494" y="540" as="sourcePoint" />
+            <mxPoint x="-534" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="370" as="sourcePoint" />
-            <mxPoint x="170" y="360" as="targetPoint" />
+            <mxPoint x="-494" y="500" as="sourcePoint" />
+            <mxPoint x="-604" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-6" target="nT96e9O3tZ2XYBUej3jo-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="370" as="sourcePoint" />
-            <mxPoint x="180" y="370" as="targetPoint" />
+            <mxPoint x="-564" y="500" as="sourcePoint" />
+            <mxPoint x="-594" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-15" value="L0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="340" width="35" height="10" as="geometry" />
+          <mxGeometry x="-501.5" y="470" width="35" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-16" value="L1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="202.5" y="340" width="35" height="10" as="geometry" />
+          <mxGeometry x="-571.5" y="470" width="35" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-17" value="L2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="132.5" y="340" width="35" height="10" as="geometry" />
+          <mxGeometry x="-641.5" y="470" width="35" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-19" value="&lt;div&gt;观察&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="370" width="40" height="20" as="geometry" />
+          <mxGeometry x="-424" y="500" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-7" target="nT96e9O3tZ2XYBUej3jo-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="410" as="sourcePoint" />
-            <mxPoint x="320" y="450" as="targetPoint" />
+            <mxPoint x="-424" y="540" as="sourcePoint" />
+            <mxPoint x="-454" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-8" target="nT96e9O3tZ2XYBUej3jo-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="370" as="sourcePoint" />
-            <mxPoint x="360" y="390" as="targetPoint" />
+            <mxPoint x="-454" y="500" as="sourcePoint" />
+            <mxPoint x="-414" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-23" value="安详" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="331" width="40" height="20" as="geometry" />
+          <mxGeometry x="-354" y="461" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-24" value="&lt;div&gt;和谐&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="371" width="40" height="20" as="geometry" />
+          <mxGeometry x="-354" y="501" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-25" value="小乘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="321" width="35" height="10" as="geometry" />
+          <mxGeometry x="-351.5" y="451" width="35" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-26" value="&lt;div&gt;平等心&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="411" width="40" height="20" as="geometry" />
+          <mxGeometry x="-354" y="541" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-28" value="&lt;div&gt;帮助他人&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="504" y="371" width="56" height="20" as="geometry" />
+          <mxGeometry x="-270" y="501" width="56" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-29" value="大乘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="514.5" y="361" width="35" height="10" as="geometry" />
+          <mxGeometry x="-259.5" y="491" width="35" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-19" target="nT96e9O3tZ2XYBUej3jo-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="370" as="sourcePoint" />
-            <mxPoint x="360" y="390" as="targetPoint" />
+            <mxPoint x="-454" y="500" as="sourcePoint" />
+            <mxPoint x="-414" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-19" target="nT96e9O3tZ2XYBUej3jo-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="390" as="sourcePoint" />
-            <mxPoint x="430" y="370" as="targetPoint" />
+            <mxPoint x="-374" y="520" as="sourcePoint" />
+            <mxPoint x="-344" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-19" target="nT96e9O3tZ2XYBUej3jo-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="390" as="sourcePoint" />
-            <mxPoint x="430" y="410" as="targetPoint" />
+            <mxPoint x="-374" y="520" as="sourcePoint" />
+            <mxPoint x="-344" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-26" target="nT96e9O3tZ2XYBUej3jo-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="371" as="sourcePoint" />
-            <mxPoint x="430" y="431" as="targetPoint" />
+            <mxPoint x="-374" y="501" as="sourcePoint" />
+            <mxPoint x="-344" y="561" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-24" target="nT96e9O3tZ2XYBUej3jo-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="431" as="sourcePoint" />
-            <mxPoint x="514" y="391" as="targetPoint" />
+            <mxPoint x="-304" y="561" as="sourcePoint" />
+            <mxPoint x="-260" y="521" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-23" target="nT96e9O3tZ2XYBUej3jo-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="391" as="sourcePoint" />
-            <mxPoint x="514" y="391" as="targetPoint" />
+            <mxPoint x="-304" y="521" as="sourcePoint" />
+            <mxPoint x="-260" y="521" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nT96e9O3tZ2XYBUej3jo-36" value="&lt;div&gt;纯净&amp;amp;安详的内在生命状态&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;小我：安详、和谐、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;豁达、不再执著、积极的、有创造力的、快乐、纯净的心&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;宇宙：平等心、超然的爱（对他人的失败与苦难充满怜悯、对他人的成功和快乐充满喜悦、）、仁爱、慈悲、世界和平&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="460" y="150" width="240" height="140" as="geometry" />
+        <mxCell id="nT96e9O3tZ2XYBUej3jo-36" value="&lt;div&gt;纯净&amp;amp;安详的内在生命状态&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;小我：安详、和谐、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;豁达、不再执著、积极的、有创造力的、快乐、纯净的心&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;宇宙：平等心、超然的爱（对他人的失败与苦难充满怜悯、对他人的成功和快乐充满喜悦、）、仁爱、慈悲、世界和平&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;心变得像黎明时山中的湖水一样静谧，完美的倒映出周遭的一景一物&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="420" y="90" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-37" value="过好这一生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="250" width="80" height="20" as="geometry" />
+          <mxGeometry x="520" y="270" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-38" value="L1：戒：遵守戒律&lt;div&gt;守住底线，不作恶：&lt;/div&gt;&lt;div&gt;不杀生、不偷盗、不发生不正当的性行为、不说谎、不服用麻醉品&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="-360" y="130" width="170" height="90" as="geometry" />
@@ -145,50 +148,65 @@
         <mxCell id="nT96e9O3tZ2XYBUej3jo-40" value="L3：慧：照见本身实相，自我净化&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;div&gt;从粗重、外在和浅显的表象，贯穿渗透到身心的终极究竟实相。&lt;/div&gt;&lt;div&gt;再进一步，超越身心的实相，超越时空及相互依存的限制领域的实相，从所有不净、杂染、痛苦中彻底解脱的实相&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="80" y="130" width="311" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="nT96e9O3tZ2XYBUej3jo-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="590" width="156" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-50" value="佛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="480" width="40" height="20" as="geometry" />
+          <mxGeometry x="-351.5" y="610" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-51" value="&lt;div&gt;基督&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="520" width="40" height="20" as="geometry" />
+          <mxGeometry x="-351.5" y="650" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-52" value="表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="470" width="35" height="10" as="geometry" />
+          <mxGeometry x="-349" y="600" width="35" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-53" value="&lt;div&gt;伊斯兰&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="560" width="40" height="20" as="geometry" />
+          <mxGeometry x="-351.5" y="690" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-54" value="善" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="506.5" y="520" width="56" height="20" as="geometry" />
+          <mxGeometry x="-267.5" y="650" width="56" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-55" value="本质追求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="506.5" y="510" width="57" height="10" as="geometry" />
+          <mxGeometry x="-267.5" y="640" width="57" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-53" target="nT96e9O3tZ2XYBUej3jo-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="402.5" y="520" as="sourcePoint" />
-            <mxPoint x="432.5" y="580" as="targetPoint" />
+            <mxPoint x="-371.5" y="650" as="sourcePoint" />
+            <mxPoint x="-341.5" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-51" target="nT96e9O3tZ2XYBUej3jo-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="472.5" y="580" as="sourcePoint" />
-            <mxPoint x="516.5" y="540" as="targetPoint" />
+            <mxPoint x="-301.5" y="710" as="sourcePoint" />
+            <mxPoint x="-257.5" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-50" target="nT96e9O3tZ2XYBUej3jo-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="472.5" y="540" as="sourcePoint" />
-            <mxPoint x="516.5" y="540" as="targetPoint" />
+            <mxPoint x="-301.5" y="670" as="sourcePoint" />
+            <mxPoint x="-257.5" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-59" value="&lt;div&gt;...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="600" width="40" height="20" as="geometry" />
+          <mxGeometry x="-351.5" y="730" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-59" target="nT96e9O3tZ2XYBUej3jo-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="473" y="580" as="sourcePoint" />
-            <mxPoint x="517" y="540" as="targetPoint" />
+            <mxPoint x="-301" y="710" as="sourcePoint" />
+            <mxPoint x="-257" y="670" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nT96e9O3tZ2XYBUej3jo-62" value="&lt;div&gt;乔达摩的故事&lt;/div&gt;&lt;div&gt;问题：以了解人类的痛苦&lt;/div&gt;&lt;div&gt;答案：洞见自身的实相，并体验从痛苦中解脱的大自在。这是生活的艺术&lt;/div&gt;&lt;div&gt;兼济天下：终其一生帮助人们依他所发现的方法修习，走上解脱之道&lt;/div&gt;&lt;div&gt;修炼方法：八正道&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="276" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nT96e9O3tZ2XYBUej3jo-64" value="&lt;div&gt;肉体&lt;/div&gt;&lt;div&gt;我们一直都在被自己内在未觉知的力量所奴役。就在这具具有心识的六尺之躯，揭示了宇宙，宇宙的生起、寂灭，及走向寂灭之道。&lt;/div&gt;&lt;div&gt;我们可以控制宏观的组织，但没法控制微观的精细&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="276" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nT96e9O3tZ2XYBUej3jo-66" value="宗教的本质都是向善" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-284.5" y="590" width="74.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nT96e9O3tZ2XYBUej3jo-67" value="从表及里，观察是核心桥梁" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="440" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
