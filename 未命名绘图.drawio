@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="rtMotEhuk78CixwwPYpt">
-    <mxGraphModel dx="2261" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,11 +130,11 @@
             <mxPoint x="514" y="391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nT96e9O3tZ2XYBUej3jo-36" value="安详、和谐、&lt;span style=&quot;background-color: initial;&quot;&gt;豁达、不再执著、积极的、有创造力的、快乐&lt;/span&gt;&lt;div&gt;平等心、仁爱、慈悲、世界和平&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="460" y="150" width="170" height="90" as="geometry" />
+        <mxCell id="nT96e9O3tZ2XYBUej3jo-36" value="&lt;div&gt;纯净&amp;amp;安详的内在生命状态&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;小我：安详、和谐、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;豁达、不再执著、积极的、有创造力的、快乐、纯净的心&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;宇宙：平等心、超然的爱（对他人的失败与苦难充满怜悯、对他人的成功和快乐充满喜悦、）、仁爱、慈悲、世界和平&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-37" value="过好这一生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="514.5" y="210" width="80" height="20" as="geometry" />
+          <mxGeometry x="540" y="250" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-38" value="L1：戒：遵守戒律&lt;div&gt;守住底线，不作恶：&lt;/div&gt;&lt;div&gt;不杀生、不偷盗、不发生不正当的性行为、不说谎、不服用麻醉品&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="-360" y="130" width="170" height="90" as="geometry" />
@@ -183,6 +183,12 @@
         </mxCell>
         <mxCell id="nT96e9O3tZ2XYBUej3jo-59" value="&lt;div&gt;...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="422.5" y="600" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nT96e9O3tZ2XYBUej3jo-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="nT96e9O3tZ2XYBUej3jo-59" target="nT96e9O3tZ2XYBUej3jo-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="473" y="580" as="sourcePoint" />
+            <mxPoint x="517" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
